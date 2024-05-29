@@ -1,0 +1,4 @@
+Account ID: 1 Balance: 30.0 Type: Saving
+Transcaction logs: 
+Amount: $20.0 Time :0min Type: Transfer
+Amount: $50.0 Time :0min Type: Transfer
